@@ -9,38 +9,45 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:showIn="@layout/activity_main" tools:context=".MainActivity">
 
-
-    <View
+    <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="40dp"
-        android:background= "@color/black"
-        android:id="@+id/viewProcessadores"/>
+        android:id="@+id/viewProcessadores"
+        android:orientation="horizontal"
+        android:background="@color/black">
 
-    <include layout="@layout/grid_processadores"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Processos Executando"
+            android:textColor="@color/white"
+            android:layout_marginTop="8dp"
+            android:textSize="20dp"/>
 
-    <View
+    </LinearLayout>
+
+    <include layout="@layout/grid_processadores"
+        android:id="@+id/includeProcessadores"
+        android:layout_below="@+id/viewProcessadores"></include>
+    
+
+    <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="40dp"
-        android:layout_below="@+id/gridProcessadores"
-        android:background="@color/black"
         android:id="@+id/viewAptos"
-        />
-    <GridView
-        android:layout_width="wrap_content"
-        android:layout_height="50dp"
-        android:layout_below="@+id/viewAptos"
-        android:id="@+id/gridAptos"
-        android:numColumns="4"></GridView>
-    <View
-        android:layout_width="fill_parent"
-        android:layout_height="40dp"
-        android:id="@+id/viewBloqueados"
-        android:layout_below="@+id/gridAptos"
-        android:background="@color/black"/>
-    <GridView
-        android:layout_width="fill_parent"
-        android:layout_height="50dp"
-        android:id="@+id/gridBloqueados"
-        android:layout_below="@+id/viewBloqueados"
-        android:numColumns="4"></GridView>
+        android:orientation="horizontal"
+        android:background="@color/black"
+        android:layout_below="@+id/viewProcessadores">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Processos Aptos"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:layout_marginTop="8dp"/>
+    </LinearLayout>
+
+
+
+
 </RelativeLayout>
