@@ -10,10 +10,37 @@
     tools:showIn="@layout/activity_main" tools:context=".MainActivity">
 
 
-    <GridLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"></GridLayout>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background= "@color/black"
+        android:id="@+id/viewProcessadores"/>
+
+    <include layout="@layout/grid_processadores"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/gridProcessadores"
+        android:background="@color/black"
+        android:id="@+id/viewAptos"
+        />
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@+id/viewAptos"
+        android:id="@+id/gridAptos"
+        android:numColumns="4"></GridView>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:id="@+id/viewBloqueados"
+        android:layout_below="@+id/gridAptos"
+        android:background="@color/black"/>
+    <GridView
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:id="@+id/gridBloqueados"
+        android:layout_below="@+id/viewBloqueados"
+        android:numColumns="4"></GridView>
 </RelativeLayout>

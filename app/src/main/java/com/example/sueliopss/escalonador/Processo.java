@@ -5,5 +5,14 @@ package com.example.sueliopss.escalonador;
  */
 public class Processo {
     int prioridade;
-    int tempo;
+    int tempoProcesso;
+    String nomeProcesso;
+    int tempoProcessar;
+
+    public Processo(int prioridade, int tempoProcesso, String nomeProcesso, int tempoProcessar) {
+        this.prioridade = prioridade;
+        this.tempoProcesso = tempoProcesso;
+        this.nomeProcesso = nomeProcesso;
+        this.tempoProcessar = tempoProcessar;
+    }
 }
