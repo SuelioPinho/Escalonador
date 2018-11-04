@@ -1,1 +1,921 @@
-{"message":"teste"}
+[{
+	"latitude": -7.34588,
+	"longitude": -39.0416,
+	"nome_municipio": "Abaiara",
+	"uf": "CE"
+}, {
+	"latitude": -4.22083,
+	"longitude": -38.7055,
+	"nome_municipio": "Acarape",
+	"uf": "CE"
+}, {
+	"latitude": -2.88769,
+	"longitude": -40.1183,
+	"nome_municipio": "Acaraú",
+	"uf": "CE"
+}, {
+	"latitude": -6.08911,
+	"longitude": -39.448,
+	"nome_municipio": "Acopiara",
+	"uf": "CE"
+}, {
+	"latitude": -6.57122,
+	"longitude": -40.1178,
+	"nome_municipio": "Aiuaba",
+	"uf": "CE"
+}, {
+	"latitude": -3.58537,
+	"longitude": -40.5479,
+	"nome_municipio": "Alcântaras",
+	"uf": "CE"
+}, {
+	"latitude": -6.99837,
+	"longitude": -39.7356,
+	"nome_municipio": "Altaneira",
+	"uf": "CE"
+}, {
+	"latitude": -5.50894,
+	"longitude": -38.2743,
+	"nome_municipio": "Alto Santo",
+	"uf": "CE"
+}, {
+	"latitude": -3.36017,
+	"longitude": -39.8288,
+	"nome_municipio": "Amontada",
+	"uf": "CE"
+}, {
+	"latitude": -6.76919,
+	"longitude": -39.987,
+	"nome_municipio": "Antonina do Norte",
+	"uf": "CE"
+}, {
+	"latitude": -3.94506,
+	"longitude": -39.4359,
+	"nome_municipio": "Apuiarés",
+	"uf": "CE"
+}, {
+	"latitude": -3.89929,
+	"longitude": -38.3896,
+	"nome_municipio": "Aquiraz",
+	"uf": "CE"
+}, {
+	"latitude": -4.55826,
+	"longitude": -37.7679,
+	"nome_municipio": "Aracati",
+	"uf": "CE"
+}, {
+	"latitude": -4.36872,
+	"longitude": -38.8125,
+	"nome_municipio": "Aracoiaba",
+	"uf": "CE"
+}, {
+	"latitude": -4.74567,
+	"longitude": -40.831,
+	"nome_municipio": "Ararendá",
+	"uf": "CE"
+}, {
+	"latitude": -7.21319,
+	"longitude": -40.1359,
+	"nome_municipio": "Araripe",
+	"uf": "CE"
+}, {
+	"latitude": -4.41229,
+	"longitude": -39.0471,
+	"nome_municipio": "Aratuba",
+	"uf": "CE"
+}, {
+	"latitude": -6.3165,
+	"longitude": -40.1653,
+	"nome_municipio": "Arneiroz",
+	"uf": "CE"
+}, {
+	"latitude": -6.8669,
+	"longitude": -39.8689,
+	"nome_municipio": "Assaré",
+	"uf": "CE"
+}, {
+	"latitude": -6.93349,
+	"longitude": -38.9742,
+	"nome_municipio": "Aurora",
+	"uf": "CE"
+}, {
+	"latitude": -6.71945,
+	"longitude": -38.7134,
+	"nome_municipio": "Baixio",
+	"uf": "CE"
+}, {
+	"latitude": -5.30454,
+	"longitude": -38.9132,
+	"nome_municipio": "Banabuiú",
+	"uf": "CE"
+}, {
+	"latitude": -7.2982,
+	"longitude": -39.3021,
+	"nome_municipio": "Barbalha",
+	"uf": "CE"
+}, {
+	"latitude": -4.28921,
+	"longitude": -38.6429,
+	"nome_municipio": "Barreira",
+	"uf": "CE"
+}, {
+	"latitude": -7.17188,
+	"longitude": -38.7741,
+	"nome_municipio": "Barro",
+	"uf": "CE"
+}, {
+	"latitude": -3.02051,
+	"longitude": -41.1358,
+	"nome_municipio": "Barroquinha",
+	"uf": "CE"
+}, {
+	"latitude": -4.32598,
+	"longitude": -38.8812,
+	"nome_municipio": "Baturité",
+	"uf": "CE"
+}, {
+	"latitude": -4.17741,
+	"longitude": -38.1271,
+	"nome_municipio": "Beberibe",
+	"uf": "CE"
+}, {
+	"latitude": -3.04996,
+	"longitude": -40.1671,
+	"nome_municipio": "Bela Cruz",
+	"uf": "CE"
+}, {
+	"latitude": -5.11258,
+	"longitude": -39.7337,
+	"nome_municipio": "Boa Viagem",
+	"uf": "CE"
+}, {
+	"latitude": -7.48469,
+	"longitude": -38.9799,
+	"nome_municipio": "Brejo Santo",
+	"uf": "CE"
+}, {
+	"latitude": -2.9005,
+	"longitude": -40.8544,
+	"nome_municipio": "Camocim",
+	"uf": "CE"
+}, {
+	"latitude": -7.06761,
+	"longitude": -40.3687,
+	"nome_municipio": "Campos Sales",
+	"uf": "CE"
+}, {
+	"latitude": -4.35162,
+	"longitude": -39.3155,
+	"nome_municipio": "Canindé",
+	"uf": "CE"
+}, {
+	"latitude": -4.45569,
+	"longitude": -38.9048,
+	"nome_municipio": "Capistrano",
+	"uf": "CE"
+}, {
+	"latitude": -4.22514,
+	"longitude": -39.1912,
+	"nome_municipio": "Caridade",
+	"uf": "CE"
+}, {
+	"latitude": -3.94858,
+	"longitude": -40.476,
+	"nome_municipio": "Cariré",
+	"uf": "CE"
+}, {
+	"latitude": -7.02808,
+	"longitude": -39.2828,
+	"nome_municipio": "Caririaçu",
+	"uf": "CE"
+}, {
+	"latitude": -6.52428,
+	"longitude": -39.4916,
+	"nome_municipio": "Cariús",
+	"uf": "CE"
+}, {
+	"latitude": -4.15985,
+	"longitude": -40.9413,
+	"nome_municipio": "Carnaubal",
+	"uf": "CE"
+}, {
+	"latitude": -4.12967,
+	"longitude": -38.2412,
+	"nome_municipio": "Cascavel",
+	"uf": "CE"
+}, {
+	"latitude": -6.12291,
+	"longitude": -39.8736,
+	"nome_municipio": "Catarina",
+	"uf": "CE"
+}, {
+	"latitude": -4.64336,
+	"longitude": -40.2,
+	"nome_municipio": "Catunda",
+	"uf": "CE"
+}, {
+	"latitude": -3.72797,
+	"longitude": -38.6619,
+	"nome_municipio": "Caucaia",
+	"uf": "CE"
+}, {
+	"latitude": -6.60034,
+	"longitude": -39.0609,
+	"nome_municipio": "Cedro",
+	"uf": "CE"
+}, {
+	"latitude": -3.03571,
+	"longitude": -41.2435,
+	"nome_municipio": "Chaval",
+	"uf": "CE"
+}, {
+	"latitude": -4.83906,
+	"longitude": -39.1344,
+	"nome_municipio": "Choró",
+	"uf": "CE"
+}, {
+	"latitude": -4.28873,
+	"longitude": -38.4986,
+	"nome_municipio": "Chorozinho",
+	"uf": "CE"
+}, {
+	"latitude": -3.5415,
+	"longitude": -40.6587,
+	"nome_municipio": "Coreaú",
+	"uf": "CE"
+}, {
+	"latitude": -5.16768,
+	"longitude": -40.6536,
+	"nome_municipio": "Crateús",
+	"uf": "CE"
+}, {
+	"latitude": -7.2153,
+	"longitude": -39.4103,
+	"nome_municipio": "Crato",
+	"uf": "CE"
+}, {
+	"latitude": -4.40481,
+	"longitude": -40.9022,
+	"nome_municipio": "Croatá",
+	"uf": "CE"
+}, {
+	"latitude": -2.91813,
+	"longitude": -40.176,
+	"nome_municipio": "Cruz",
+	"uf": "CE"
+}, {
+	"latitude": -5.91485,
+	"longitude": -39.257,
+	"nome_municipio": "Deputado Irapuan Pinheiro",
+	"uf": "CE"
+}, {
+	"latitude": -6.02751,
+	"longitude": -38.3461,
+	"nome_municipio": "Ererê",
+	"uf": "CE"
+}, {
+	"latitude": -3.8925,
+	"longitude": -38.4559,
+	"nome_municipio": "Eusébio",
+	"uf": "CE"
+}, {
+	"latitude": -6.92146,
+	"longitude": -39.5651,
+	"nome_municipio": "Farias Brito",
+	"uf": "CE"
+}, {
+	"latitude": -3.79945,
+	"longitude": -40.2634,
+	"nome_municipio": "Forquilha",
+	"uf": "CE"
+}, {
+	"latitude": -3.71664,
+	"longitude": -38.5423,
+	"nome_municipio": "Fortaleza",
+	"uf": "CE"
+}, {
+	"latitude": -4.45126,
+	"longitude": -37.7981,
+	"nome_municipio": "Fortim",
+	"uf": "CE"
+}, {
+	"latitude": -3.75557,
+	"longitude": -40.818,
+	"nome_municipio": "Frecheirinha",
+	"uf": "CE"
+}, {
+	"latitude": -4.04351,
+	"longitude": -39.454,
+	"nome_municipio": "General Sampaio",
+	"uf": "CE"
+}, {
+	"latitude": -4.04422,
+	"longitude": -40.749,
+	"nome_municipio": "Graça",
+	"uf": "CE"
+}, {
+	"latitude": -3.12788,
+	"longitude": -40.8372,
+	"nome_municipio": "Granja",
+	"uf": "CE"
+}, {
+	"latitude": -6.88134,
+	"longitude": -39.2144,
+	"nome_municipio": "Granjeiro",
+	"uf": "CE"
+}, {
+	"latitude": -3.91787,
+	"longitude": -40.3852,
+	"nome_municipio": "Groaíras",
+	"uf": "CE"
+}, {
+	"latitude": -4.04057,
+	"longitude": -38.6404,
+	"nome_municipio": "Guaiúba",
+	"uf": "CE"
+}, {
+	"latitude": -4.15814,
+	"longitude": -40.7476,
+	"nome_municipio": "Guaraciaba do Norte",
+	"uf": "CE"
+}, {
+	"latitude": -4.26248,
+	"longitude": -38.932,
+	"nome_municipio": "Guaramiranga",
+	"uf": "CE"
+}, {
+	"latitude": -4.40958,
+	"longitude": -40.4056,
+	"nome_municipio": "Hidrolândia",
+	"uf": "CE"
+}, {
+	"latitude": -4.1209,
+	"longitude": -38.4707,
+	"nome_municipio": "Horizonte",
+	"uf": "CE"
+}, {
+	"latitude": -4.80376,
+	"longitude": -38.7501,
+	"nome_municipio": "Ibaretama",
+	"uf": "CE"
+}, {
+	"latitude": -3.92403,
+	"longitude": -40.8911,
+	"nome_municipio": "Ibiapina",
+	"uf": "CE"
+}, {
+	"latitude": -4.96999,
+	"longitude": -38.6362,
+	"nome_municipio": "Ibicuitinga",
+	"uf": "CE"
+}, {
+	"latitude": -4.71206,
+	"longitude": -37.3531,
+	"nome_municipio": "Icapuí",
+	"uf": "CE"
+}, {
+	"latitude": -6.39627,
+	"longitude": -38.8554,
+	"nome_municipio": "Icó",
+	"uf": "CE"
+}, {
+	"latitude": -6.36281,
+	"longitude": -39.2892,
+	"nome_municipio": "Iguatu",
+	"uf": "CE"
+}, {
+	"latitude": -5.38789,
+	"longitude": -40.3085,
+	"nome_municipio": "Independência",
+	"uf": "CE"
+}, {
+	"latitude": -4.89764,
+	"longitude": -40.7537,
+	"nome_municipio": "Ipaporanga",
+	"uf": "CE"
+}, {
+	"latitude": -6.78265,
+	"longitude": -38.7179,
+	"nome_municipio": "Ipaumirim",
+	"uf": "CE"
+}, {
+	"latitude": -4.31748,
+	"longitude": -40.7059,
+	"nome_municipio": "Ipu",
+	"uf": "CE"
+}, {
+	"latitude": -4.53802,
+	"longitude": -40.7118,
+	"nome_municipio": "Ipueiras",
+	"uf": "CE"
+}, {
+	"latitude": -5.8124,
+	"longitude": -38.2919,
+	"nome_municipio": "Iracema",
+	"uf": "CE"
+}, {
+	"latitude": -3.74737,
+	"longitude": -39.7843,
+	"nome_municipio": "Irauçuba",
+	"uf": "CE"
+}, {
+	"latitude": -4.67146,
+	"longitude": -37.833,
+	"nome_municipio": "Itaiçaba",
+	"uf": "CE"
+}, {
+	"latitude": -3.96577,
+	"longitude": -38.5298,
+	"nome_municipio": "Itaitinga",
+	"uf": "CE"
+}, {
+	"latitude": -3.68314,
+	"longitude": -39.5855,
+	"nome_municipio": "Itapajé",
+	"uf": "CE"
+}, {
+	"latitude": -3.49933,
+	"longitude": -39.5836,
+	"nome_municipio": "Itapipoca",
+	"uf": "CE"
+}, {
+	"latitude": -4.55516,
+	"longitude": -38.9281,
+	"nome_municipio": "Itapiúna",
+	"uf": "CE"
+}, {
+	"latitude": -2.9248,
+	"longitude": -39.9167,
+	"nome_municipio": "Itarema",
+	"uf": "CE"
+}, {
+	"latitude": -4.52608,
+	"longitude": -39.6202,
+	"nome_municipio": "Itatira",
+	"uf": "CE"
+}, {
+	"latitude": -5.6051,
+	"longitude": -38.7639,
+	"nome_municipio": "Jaguaretama",
+	"uf": "CE"
+}, {
+	"latitude": -5.67765,
+	"longitude": -38.5359,
+	"nome_municipio": "Jaguaribara",
+	"uf": "CE"
+}, {
+	"latitude": -5.90213,
+	"longitude": -38.6227,
+	"nome_municipio": "Jaguaribe",
+	"uf": "CE"
+}, {
+	"latitude": -4.83151,
+	"longitude": -37.781,
+	"nome_municipio": "Jaguaruana",
+	"uf": "CE"
+}, {
+	"latitude": -7.57599,
+	"longitude": -39.2826,
+	"nome_municipio": "Jardim",
+	"uf": "CE"
+}, {
+	"latitude": -7.6797,
+	"longitude": -39.0029,
+	"nome_municipio": "Jati",
+	"uf": "CE"
+}, {
+	"latitude": -2.79331,
+	"longitude": -40.5127,
+	"nome_municipio": "Jijoca de Jericoacoara",
+	"uf": "CE"
+}, {
+	"latitude": -7.19621,
+	"longitude": -39.3076,
+	"nome_municipio": "Juazeiro do Norte",
+	"uf": "CE"
+}, {
+	"latitude": -6.51523,
+	"longitude": -39.5187,
+	"nome_municipio": "Jucás",
+	"uf": "CE"
+}, {
+	"latitude": -6.7448,
+	"longitude": -38.9706,
+	"nome_municipio": "Lavras da Mangabeira",
+	"uf": "CE"
+}, {
+	"latitude": -5.14392,
+	"longitude": -38.0847,
+	"nome_municipio": "Limoeiro do Norte",
+	"uf": "CE"
+}, {
+	"latitude": -4.84601,
+	"longitude": -39.5725,
+	"nome_municipio": "Madalena",
+	"uf": "CE"
+}, {
+	"latitude": -3.86699,
+	"longitude": -38.6259,
+	"nome_municipio": "Maracanaú",
+	"uf": "CE"
+}, {
+	"latitude": -3.89143,
+	"longitude": -38.6829,
+	"nome_municipio": "Maranguape",
+	"uf": "CE"
+}, {
+	"latitude": -3.1285,
+	"longitude": -40.1582,
+	"nome_municipio": "Marco",
+	"uf": "CE"
+}, {
+	"latitude": -3.2252,
+	"longitude": -40.6896,
+	"nome_municipio": "Martinópole",
+	"uf": "CE"
+}, {
+	"latitude": -3.52364,
+	"longitude": -40.3423,
+	"nome_municipio": "Massapê",
+	"uf": "CE"
+}, {
+	"latitude": -7.38597,
+	"longitude": -38.7708,
+	"nome_municipio": "Mauriti",
+	"uf": "CE"
+}, {
+	"latitude": -3.53974,
+	"longitude": -40.4531,
+	"nome_municipio": "Meruoca",
+	"uf": "CE"
+}, {
+	"latitude": -7.29749,
+	"longitude": -38.9378,
+	"nome_municipio": "Milagres",
+	"uf": "CE"
+}, {
+	"latitude": -5.67252,
+	"longitude": -39.1875,
+	"nome_municipio": "Milhã",
+	"uf": "CE"
+}, {
+	"latitude": -3.56867,
+	"longitude": -39.9663,
+	"nome_municipio": "Miraíma",
+	"uf": "CE"
+}, {
+	"latitude": -7.23522,
+	"longitude": -39.143,
+	"nome_municipio": "Missão Velha",
+	"uf": "CE"
+}, {
+	"latitude": -5.73844,
+	"longitude": -39.63,
+	"nome_municipio": "Mombaça",
+	"uf": "CE"
+}, {
+	"latitude": -4.79102,
+	"longitude": -40.0646,
+	"nome_municipio": "Monsenhor Tabosa",
+	"uf": "CE"
+}, {
+	"latitude": -5.09736,
+	"longitude": -38.3702,
+	"nome_municipio": "Morada Nova",
+	"uf": "CE"
+}, {
+	"latitude": -3.46311,
+	"longitude": -40.6776,
+	"nome_municipio": "Moraújo",
+	"uf": "CE"
+}, {
+	"latitude": -3.23426,
+	"longitude": -40.1233,
+	"nome_municipio": "Morrinhos",
+	"uf": "CE"
+}, {
+	"latitude": -3.90271,
+	"longitude": -40.7452,
+	"nome_municipio": "Mucambo",
+	"uf": "CE"
+}, {
+	"latitude": -4.30294,
+	"longitude": -38.9951,
+	"nome_municipio": "Mulungu",
+	"uf": "CE"
+}, {
+	"latitude": -7.08415,
+	"longitude": -39.6713,
+	"nome_municipio": "Nova Olinda",
+	"uf": "CE"
+}, {
+	"latitude": -4.70581,
+	"longitude": -40.5621,
+	"nome_municipio": "Nova Russas",
+	"uf": "CE"
+}, {
+	"latitude": -5.52552,
+	"longitude": -40.7713,
+	"nome_municipio": "Novo Oriente",
+	"uf": "CE"
+}, {
+	"latitude": -4.48523,
+	"longitude": -38.5933,
+	"nome_municipio": "Ocara",
+	"uf": "CE"
+}, {
+	"latitude": -6.25182,
+	"longitude": -38.9053,
+	"nome_municipio": "Orós",
+	"uf": "CE"
+}, {
+	"latitude": -4.17107,
+	"longitude": -38.465,
+	"nome_municipio": "Pacajus",
+	"uf": "CE"
+}, {
+	"latitude": -3.9784,
+	"longitude": -38.6183,
+	"nome_municipio": "Pacatuba",
+	"uf": "CE"
+}, {
+	"latitude": -4.22492,
+	"longitude": -38.922,
+	"nome_municipio": "Pacoti",
+	"uf": "CE"
+}, {
+	"latitude": -3.98327,
+	"longitude": -40.6989,
+	"nome_municipio": "Pacujá",
+	"uf": "CE"
+}, {
+	"latitude": -4.73672,
+	"longitude": -37.9655,
+	"nome_municipio": "Palhano",
+	"uf": "CE"
+}, {
+	"latitude": -4.13831,
+	"longitude": -38.8446,
+	"nome_municipio": "Palmácia",
+	"uf": "CE"
+}, {
+	"latitude": -3.41436,
+	"longitude": -39.03,
+	"nome_municipio": "Paracuru",
+	"uf": "CE"
+}, {
+	"latitude": -3.43799,
+	"longitude": -39.1479,
+	"nome_municipio": "Paraipaba",
+	"uf": "CE"
+}, {
+	"latitude": -6.20768,
+	"longitude": -40.6905,
+	"nome_municipio": "Parambu",
+	"uf": "CE"
+}, {
+	"latitude": -4.08815,
+	"longitude": -39.2417,
+	"nome_municipio": "Paramoti",
+	"uf": "CE"
+}, {
+	"latitude": -5.45341,
+	"longitude": -39.7078,
+	"nome_municipio": "Pedra Branca",
+	"uf": "CE"
+}, {
+	"latitude": -7.82163,
+	"longitude": -39.0707,
+	"nome_municipio": "Penaforte",
+	"uf": "CE"
+}, {
+	"latitude": -3.79274,
+	"longitude": -39.2692,
+	"nome_municipio": "Pentecoste",
+	"uf": "CE"
+}, {
+	"latitude": -6.03576,
+	"longitude": -38.4624,
+	"nome_municipio": "Pereiro",
+	"uf": "CE"
+}, {
+	"latitude": -4.01584,
+	"longitude": -38.3061,
+	"nome_municipio": "Pindoretama",
+	"uf": "CE"
+}, {
+	"latitude": -5.80025,
+	"longitude": -39.417,
+	"nome_municipio": "Piquet Carneiro",
+	"uf": "CE"
+}, {
+	"latitude": -4.23922,
+	"longitude": -40.6442,
+	"nome_municipio": "Pires Ferreira",
+	"uf": "CE"
+}, {
+	"latitude": -4.74672,
+	"longitude": -40.9205,
+	"nome_municipio": "Poranga",
+	"uf": "CE"
+}, {
+	"latitude": -7.52265,
+	"longitude": -39.114,
+	"nome_municipio": "Porteiras",
+	"uf": "CE"
+}, {
+	"latitude": -7.09154,
+	"longitude": -40.0233,
+	"nome_municipio": "Potengi",
+	"uf": "CE"
+}, {
+	"latitude": -5.71287,
+	"longitude": -38.1578,
+	"nome_municipio": "Potiretama",
+	"uf": "CE"
+}, {
+	"latitude": -5.8425,
+	"longitude": -40.7002,
+	"nome_municipio": "Quiterianópolis",
+	"uf": "CE"
+}, {
+	"latitude": -4.9663,
+	"longitude": -39.0155,
+	"nome_municipio": "Quixadá",
+	"uf": "CE"
+}, {
+	"latitude": -6.24637,
+	"longitude": -39.2011,
+	"nome_municipio": "Quixelô",
+	"uf": "CE"
+}, {
+	"latitude": -5.19067,
+	"longitude": -39.2889,
+	"nome_municipio": "Quixeramobim",
+	"uf": "CE"
+}, {
+	"latitude": -5.07148,
+	"longitude": -37.9802,
+	"nome_municipio": "Quixeré",
+	"uf": "CE"
+}, {
+	"latitude": -4.21587,
+	"longitude": -38.7277,
+	"nome_municipio": "Redenção",
+	"uf": "CE"
+}, {
+	"latitude": -4.14191,
+	"longitude": -40.5759,
+	"nome_municipio": "Reriutaba",
+	"uf": "CE"
+}, {
+	"latitude": -4.92673,
+	"longitude": -37.9721,
+	"nome_municipio": "Russas",
+	"uf": "CE"
+}, {
+	"latitude": -6.5346,
+	"longitude": -39.9017,
+	"nome_municipio": "Saboeiro",
+	"uf": "CE"
+}, {
+	"latitude": -7.28398,
+	"longitude": -40.45,
+	"nome_municipio": "Salitre",
+	"uf": "CE"
+}, {
+	"latitude": -4.32608,
+	"longitude": -40.1523,
+	"nome_municipio": "Santa Quitéria",
+	"uf": "CE"
+}, {
+	"latitude": -3.46144,
+	"longitude": -40.2118,
+	"nome_municipio": "Santana do Acaraú",
+	"uf": "CE"
+}, {
+	"latitude": -7.17613,
+	"longitude": -39.7302,
+	"nome_municipio": "Santana do Cariri",
+	"uf": "CE"
+}, {
+	"latitude": -4.04713,
+	"longitude": -40.8596,
+	"nome_municipio": "São Benedito",
+	"uf": "CE"
+}, {
+	"latitude": -3.60515,
+	"longitude": -38.9726,
+	"nome_municipio": "São Gonçalo do Amarante",
+	"uf": "CE"
+}, {
+	"latitude": -5.27516,
+	"longitude": -38.2694,
+	"nome_municipio": "São João do Jaguaribe",
+	"uf": "CE"
+}, {
+	"latitude": -3.66976,
+	"longitude": -39.2391,
+	"nome_municipio": "São Luís do Curu",
+	"uf": "CE"
+}, {
+	"latitude": -5.58244,
+	"longitude": -39.3704,
+	"nome_municipio": "Senador Pompeu",
+	"uf": "CE"
+}, {
+	"latitude": -3.35305,
+	"longitude": -40.4662,
+	"nome_municipio": "Senador Sá",
+	"uf": "CE"
+}, {
+	"latitude": -3.68913,
+	"longitude": -40.3482,
+	"nome_municipio": "Sobral",
+	"uf": "CE"
+}, {
+	"latitude": -5.71894,
+	"longitude": -39.0107,
+	"nome_municipio": "Solonópole",
+	"uf": "CE"
+}, {
+	"latitude": -5.24353,
+	"longitude": -38.1282,
+	"nome_municipio": "Tabuleiro do Norte",
+	"uf": "CE"
+}, {
+	"latitude": -4.83136,
+	"longitude": -40.3196,
+	"nome_municipio": "Tamboril",
+	"uf": "CE"
+}, {
+	"latitude": -6.67838,
+	"longitude": -39.753,
+	"nome_municipio": "Tarrafas",
+	"uf": "CE"
+}, {
+	"latitude": -5.98585,
+	"longitude": -40.2968,
+	"nome_municipio": "Tauá",
+	"uf": "CE"
+}, {
+	"latitude": -3.98831,
+	"longitude": -39.5799,
+	"nome_municipio": "Tejuçuoca",
+	"uf": "CE"
+}, {
+	"latitude": -3.72965,
+	"longitude": -40.9923,
+	"nome_municipio": "Tianguá",
+	"uf": "CE"
+}, {
+	"latitude": -3.26932,
+	"longitude": -39.2681,
+	"nome_municipio": "Trairi",
+	"uf": "CE"
+}, {
+	"latitude": -3.58413,
+	"longitude": -39.4297,
+	"nome_municipio": "Tururu",
+	"uf": "CE"
+}, {
+	"latitude": -3.85448,
+	"longitude": -40.9204,
+	"nome_municipio": "Ubajara",
+	"uf": "CE"
+}, {
+	"latitude": -6.63893,
+	"longitude": -38.7008,
+	"nome_municipio": "Umari",
+	"uf": "CE"
+}, {
+	"latitude": -3.67654,
+	"longitude": -39.3465,
+	"nome_municipio": "Umirim",
+	"uf": "CE"
+}, {
+	"latitude": -3.62316,
+	"longitude": -39.5107,
+	"nome_municipio": "Uruburetama",
+	"uf": "CE"
+}, {
+	"latitude": -3.30819,
+	"longitude": -40.5628,
+	"nome_municipio": "Uruoca",
+	"uf": "CE"
+}, {
+	"latitude": -4.19387,
+	"longitude": -40.4741,
+	"nome_municipio": "Varjota",
+	"uf": "CE"
+}, {
+	"latitude": -6.78264,
+	"longitude": -39.2942,
+	"nome_municipio": "Várzea Alegre",
+	"uf": "CE"
+}, {
+	"latitude": -3.5667,
+	"longitude": -41.0916,
+	"nome_municipio": "Viçosa do Ceará",
+	"uf": "CE"
+}]
